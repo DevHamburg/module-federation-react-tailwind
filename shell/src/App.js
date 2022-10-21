@@ -17,7 +17,7 @@ function App() {
       <div className="shell-container">
         <h1>SHELL</h1>
         <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">
-          Shell Thailwind Button (here is the package installed)
+          Shell Tailwind Button (here is the package installed)
         </button>
         <RemoteWrapper>
           <React.Suspense fallback="Loading...">

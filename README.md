@@ -1,4 +1,4 @@
-# React Module Federation + Thailwind
+# React Module Federation + Tailwind
 
 ## Screenshot Shell
 
