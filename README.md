@@ -1,13 +1,17 @@
 # React Module Federation + Tailwind
 
-## Screenshot Shell
-
-![alt text](./shell/public/example-screenshot.png)
-
-## Screenshot Networktab
-
-![alt text](./shell/public/example-networktab.png)
-
 ## Screenshot Frontends
 
-![alt text](./shell/public/frontends-screenshot.png)
+![alt text](./shell/public/overview.png)
+
+## Screenshot Shell
+
+![alt text](./shell/public/shell.png)
+
+## Screenshot Network
+
+![alt text](./shell/public/network.png)
+
+## Screenshot ErrorBoundary
+
+![alt text](./shell/public/error.png)
