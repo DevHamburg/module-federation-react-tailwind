@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.App {
+  text-align: center;
+}
+
+.shell-container {
+  background-color: #b4ddea74;
+  border: 2px dotted #8fb3be;
+  margin: 44px 16px;
+}

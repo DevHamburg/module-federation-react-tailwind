@@ -1,2 +1,1 @@
-# micro-frontend-module-federation
-Microfrontends with webpack and module federation
+# React Module Federation + Thailwind
